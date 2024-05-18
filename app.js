@@ -1,1 +1,3 @@
-// write code here
+const user = 'iamhero', role = "customer"
+alert(user)
+
